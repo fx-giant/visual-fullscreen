@@ -1,0 +1,19 @@
+{
+  "visualName": "buttonFullScreen",
+  "displayName": "buttonFullScreen",
+  "groupId": "visual.sandbox.buttonFullScreen",
+  "packageId": "sample",
+  "author": "Hans Yulian",
+  "version": "1.0.0",
+  "scripts": [
+    "buttonFullScreen.js"
+  ],
+  "styles": [
+    "buttonFullScreen.css"
+  ],
+  "canConfigure3D": false,
+  "canConfigureLegend": false,
+  "canConfigureAnimation": false,
+  "canConfigureColor": false,
+  "canConfigureThreshold": false
+}
