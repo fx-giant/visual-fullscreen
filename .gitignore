@@ -1,0 +1,8 @@
+/node_modules
+/.env
+/dependencies
+/index.html
+/config.json
+/package-lock.json
+/package.json
+/packer.js
